@@ -3,7 +3,7 @@ name = "sawbot-automation"
 version = "2.0.0"
 description = "Professional drawing automation tool"
 authors = ["you"]
-license = ""
+license = "GPL-3.0-or-later"
 repository = ""
 edition = "2021"
 
